@@ -1,0 +1,6 @@
+requests
+python-binance
+python-dotenv
+pandas
+cryptography
+aiohttp
